@@ -1,11 +1,13 @@
 ## List of projects:
 
 <details>
-  <summary>[Personal Website](https://github.com/aardisaputra/aardisaputra.github.io)</summary>
+  <summary>Personal Website</summary>
   
-  - list
-     * With some
-     * Sub bullets
+  - [Repo link](https://github.com/aardisaputra/aardisaputra.github.io)
+  - Languages used:
+    * Javascript
+  - Frameworks used:
+    * React.js
 </details>
 
 <!--
