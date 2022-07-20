@@ -88,6 +88,78 @@
   
 </details>
 
+<details>
+  <summary> 🚓 Warden (Safety App) </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/Warden)
+  
+  - Languages used: Javscript, CSS, Python
+  
+  - Frameworks/libraries used: React Native (frontend), Flask (backend)
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 🧠 Scheme Interpreter </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/scheme_interpreter)
+  
+  - Languages used: Python, Scheme
+  
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 🤳 QuiConnect (Social Media/Networking App) </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/QuiConnect)
+  
+  - Languages used: Javascript, CSS
+  
+  - Frameworks/libraries used: React Native
+  <br/>
+  
+</details>
+
+<details>
+  <summary> ⌨️ Phone Input App </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/phone_input)
+  
+  - Languages used: Dart, Python
+  
+  - Frameworks/libraries used: Flutter, PyQt5, socket
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 🇯🇵 Anime Discord Bot </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/animebot)
+  
+  - Languages used: Python
+  
+  - Frameworks/libraries used: selenium, discord.py
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 🕹️ Ball in a Circle (Arcade game) </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/ballinacircle)
+  
+  - Languages used: C#
+  
+  - Technology used: Unity
+  <br/>
+  
+</details>
+
+
 <!--
 **aardisaputra/aardisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
