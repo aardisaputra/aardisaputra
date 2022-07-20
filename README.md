@@ -2,15 +2,9 @@
 
 <details>
   <summary>Personal Website</summary>
-  - My personal website, deployed on GitHub pages.   
   - [Repo link](https://github.com/aardisaputra/aardisaputra.github.io)
-  
-  - Languages used:
-    * Javascript
-    * CSS
-  
-  - Frameworks used:
-    * React.js
+  - Languages used: Javascript, HTML, CSS
+  - Frameworks used: React.js
 </details>
 
 <!--
