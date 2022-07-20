@@ -1,6 +1,12 @@
 ## List of projects:
 
-
+<details>
+  <summary>[Personal Website](https://github.com/aardisaputra/aardisaputra.github.io)</summary>
+  
+  - list
+     * With some
+     * Sub bullets
+</details>
 
 <!--
 **aardisaputra/aardisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
