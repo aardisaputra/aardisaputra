@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary> 🎮 Ataxx </summary>
+  <summary> 🎮 Ataxx (Board Game with AI Bot) </summary>
   
   - [Repo link](https://github.com/aardisaputra/ataxx)
   
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-  <summary> 🎮 Ataxx </summary>
+  <summary> ❓ "The Enigma Machine" </summary>
   
   - [Repo link](https://github.com/aardisaputra/enigma)
   
