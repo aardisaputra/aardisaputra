@@ -1,4 +1,4 @@
-## List of projects:
+## Projects Catalogue
 
 <details>
   <summary> 😄 Personal Website </summary>
@@ -177,5 +177,8 @@
 
 ## More about me
 
-Link to personal website: https://aardisaputra.github.io/
+Visit my [personal website](https://aardisaputra.github.io/) to get a brief introduction of who I am or check out my [LinkedIn](https://www.linkedin.com/in/austin-ardisaputra-4726a11b7/) for more information on work experience and the other commitments I have!
 
+Aside from that, I'm a huge music guy who plays the 🎹 and 🎸 (and sometimes 🥁), listens to almost every genre (80's classic rock, J-Pop, Indonesian pop, Chinese pop, jazz, rap, etc.)
+
+I also enjoy 🏀, both playing and watching it, big fan of Milwaukee 🦌. Still working on my vertical to dunk more consistently.
