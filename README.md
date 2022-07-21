@@ -1,4 +1,4 @@
-## 📚 Projects Catalogue
+## 📚 Projects Catalog
 
 <details>
   <summary> 😄 Personal Website </summary>
