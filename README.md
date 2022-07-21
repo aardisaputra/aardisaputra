@@ -1,4 +1,4 @@
-## Projects Catalogue
+## 📚 Projects Catalogue
 
 <details>
   <summary> 😄 Personal Website </summary>
@@ -175,7 +175,7 @@
 
 <br/>
 
-## More about me
+## 🇮🇩 More about me
 
 Visit my [personal website](https://aardisaputra.github.io/) to get a brief introduction of who I am or check out my [LinkedIn](https://www.linkedin.com/in/austin-ardisaputra-4726a11b7/) for more information on work experience and the other commitments I have!
 
