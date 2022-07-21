@@ -77,6 +77,20 @@
 </details>
 
 <details>
+  <summary> 🔰 DIY-API </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/diy-api)
+  
+  - Languages used: Python
+  
+  - Frameworks/libraries used: Flask, Pandas, Gunicorn
+  
+  - Other technologies used: Heroku
+  <br/>
+  
+</details>
+
+<details>
   <summary> ❓ "The Enigma Machine" </summary>
   
   - [Repo link](https://github.com/aardisaputra/enigma)
