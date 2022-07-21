@@ -41,6 +41,20 @@
 </details>
 
 <details>
+  <summary> 💸 Web3 Crowdfunding dApp </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/eth-crowdfunding)
+  
+  - Languages used: Javscript, Solidity, HTML
+  
+  - Frameworks/libraries used: Hardhat (Ethereum)
+  
+  - Other technologies used: Chainlink, Ganache
+  <br/>
+  
+</details>
+
+<details>
   <summary> 💻 Gitlet (Git clone) </summary>
   
   - [Repo link](https://github.com/aardisaputra/gitlet)
