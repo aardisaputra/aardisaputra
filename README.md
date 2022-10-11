@@ -13,6 +13,18 @@
 </details>
 
 <details>
+  <summary> 🎵 I Hear U! </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/i-hear-u)
+  
+  - Languages used: Javascript, HTML, CSS
+  
+  - Frameworks/libraries used: Next.js, Material-UI, Express.js, Firebase, Spotify API  
+  <br/>
+  
+</details>
+
+<details>
   <summary> 📈 Stock Portfolio Rebalancing Bot </summary>
   
   - [Repo link](https://github.com/aardisaputra/uchicago_case3)
