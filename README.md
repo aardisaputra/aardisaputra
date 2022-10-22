@@ -13,6 +13,18 @@
 </details>
 
 <details>
+  <summary> 🏥 Aequalis </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/calhacks22)
+  
+  - Languages used: Javascript, HTML, CSS, Rust, Python
+  
+  - Frameworks/libraries used: React.js, Express.js, Flask, CockroachDB, Solana
+  <br/>
+  
+</details>
+
+<details>
   <summary> 🎵 I Hear U! </summary>
   
   - [Repo link](https://github.com/aardisaputra/i-hear-u)
