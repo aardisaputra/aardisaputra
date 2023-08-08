@@ -25,6 +25,40 @@
 </details>
 
 <details>
+  <summary> 🔌 Logisim CPU </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/logisim_cpu)
+  
+  - Tools used: Logisim  
+  <br/>
+  
+</details>
+
+<details>
+  <summary> ✍️ CS61Classify </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/cs61classify)
+  
+  - Languages used: RISC-V
+  
+  - Frameworks/libraries used: Venus
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 🐍 Snek </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/snek)
+  
+  - Languages used: C
+  
+  - Frameworks/libraries used: cgdb, Valgrind
+  <br/>
+  
+</details>
+
+<details>
   <summary> 🎵 I Hear U! </summary>
   
   - [Repo link](https://github.com/aardisaputra/i-hear-u)
