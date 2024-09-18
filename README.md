@@ -45,7 +45,7 @@
   
   - Languages used: Typescript, Python
   
-  - Frameworks/libraries used: Next.js, Tailwind CSS, MongoDB
+  - Frameworks/libraries used: React Native, OAuth2, Reflex
   <br/>
   
 </details>
