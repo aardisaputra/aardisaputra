@@ -13,6 +13,20 @@
 </details>
 
 <details>
+  <summary> 📊 DSS Website </summary>
+  
+  - [Website link](dssberkeley.com)
+    
+  - [Repo link](https://github.com/Data-Science-Society-Berkeley/Technology)
+  
+  - Languages used: Typescript, CSS
+  
+  - Frameworks/libraries used: Next.js, Tailwind CSS
+  <br/>
+  
+</details>
+
+<details>
   <summary> 🏫 PedaL </summary>
   
   - [Repo link](https://github.com/aardisaputra/pedal)
