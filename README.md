@@ -41,11 +41,15 @@
 <details>
   <summary> 💎 Little Gems </summary>
   
-  - [Repo link](https://github.com/Benler123/WealthDash)
+  - [Repo link](https://github.com/0n9aldrin/littlegems)
+    
+  - [TreeHacks 2024 Devpost Link](https://devpost.com/software/little-gems)
+    
+  - Little Gems provides a way to find the "iykyk" spots among locals that fit your dietary needs and preferences.
   
   - Languages used: Typescript, Python
   
-  - Frameworks/libraries used: React Native, OAuth2, Reflex
+  - Frameworks/libraries used: React Native, OAuth2, Convex
   <br/>
   
 </details>
