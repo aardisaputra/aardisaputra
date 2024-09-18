@@ -3,11 +3,11 @@
 <details>
   <summary> 😄 Personal Website </summary>
   
-  - [Repo link](https://github.com/aardisaputra/aardisaputra.github.io)
+  - [Repo link](https://github.com/aardisaputra/personal-site-3)
   
   - Languages used: Javascript, HTML, CSS
   
-  - Frameworks/libraries used: React.js, Material-UI  
+  - Frameworks/libraries used: Next.js, Material-UI, Tailwind CSS  
   <br/>
   
 </details>
