@@ -13,6 +13,44 @@
 </details>
 
 <details>
+  <summary> 🏫 PedaL </summary>
+  
+  - [Repo link](https://github.com/aardisaputra/pedal)
+  
+  - Languages used: Typescript, Python
+  
+  - Frameworks/libraries used: Next.js, Hume.ai, ChatGPT
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 💨 WealthDash </summary>
+  
+  - [Repo link](https://github.com/Benler123/WealthDash)
+    
+  - Full stack web app for equalitarian voting of lunch catering options in the office (Made in Wealthfront summer '24 internal hackathon)
+  
+  - Languages used: Typescript, Python
+  
+  - Frameworks/libraries used: Next.js, Tailwind CSS, MongoDB
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 💎 Little Gems </summary>
+  
+  - [Repo link](https://github.com/Benler123/WealthDash)
+  
+  - Languages used: Typescript, Python
+  
+  - Frameworks/libraries used: Next.js, Tailwind CSS, MongoDB
+  <br/>
+  
+</details>
+
+<details>
   <summary> 🏥 Aequalis </summary>
   
   - [Repo link](https://github.com/aardisaputra/calhacks22)
